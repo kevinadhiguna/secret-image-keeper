@@ -1,6 +1,6 @@
 # Secret Image Keeper
 
-Secret Image Keeper is an image encryptor/decryptor which will help you to secure your images.
+Secret Image Keeper is an image encryptor/decryptor written in Python which will help you to secure your images.
 
 ## Supported Extensions
 Images with : <br />
