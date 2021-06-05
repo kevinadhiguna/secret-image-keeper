@@ -34,3 +34,5 @@ extensions can be encrypted and decrypted.
 3. Click `encrypt / decrypt` button, then choose an image to encrypt or decrypt.
 
 4. Close the program and click the image you chose. Voila! The image is either encrypted or decrypted!
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/secret-image-keeper)](https://github.com/kevinadhiguna)
