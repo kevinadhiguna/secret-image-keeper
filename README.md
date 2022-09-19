@@ -35,4 +35,4 @@ extensions can be encrypted and decrypted.
 
 4. Close the program and click the image you chose. Voila! The image is either encrypted or decrypted!
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/secret-image-keeper)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=secret-image-keeper&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
